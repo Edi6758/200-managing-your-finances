@@ -9,6 +9,7 @@ Objetivo do projeto:
 - Criar um sistema de controle de finanças simples usando React e armazenando os dados no local storage
 - veja o meu portifólio: <https://001-personal-react-portfolio.vercel.app/>
 - Conheça a <https://inspirationdev.com/>
+- leia meus artigos no linkedin: <https://www.linkedin.com/in/edivaldo-jr/>
 
 Como ler a nomeclatura de três digitos desse conjunto de projetos do portifólio (000):
 
